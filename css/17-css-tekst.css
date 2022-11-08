@@ -1,0 +1,15 @@
+h1 {
+    color: #00f;
+}
+
+p {
+    font-size: x-large;
+}
+
+.color {
+    color: #ff0000 ;
+}
+
+h1, p {
+    text-align: center;
+}
